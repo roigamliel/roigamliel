@@ -28,3 +28,4 @@ I have been working with many languages over the years, mostly Java in OOP, but 
  - [Other patents](https://patents.google.com/?inventor=Roi+Gamliel)
  - [VERY old Blog](https://developer4life.blogspot.com/)
 
+![](https://komarev.com/ghpvc/?username=roigamliel)
