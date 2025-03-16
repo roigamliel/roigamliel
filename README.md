@@ -22,6 +22,8 @@ I have been working with many languages over the years, mostly Java in OOP, but 
 - [Trace analytics with Amazon OpenSearch](https://www.youtube.com/watch?v=vqJkgSLhD5s)
 - [Building the future of search together - Tel Aviv Summit 2022 (Hebrew) | AWS Events](https://www.youtube.com/watch?v=PZbN4J38rM0)
 - [Amazon OpenSearch Serverless (Hebrew with English Subtitles)](https://www.youtube.com/watch?v=V7KCHbvyxZI)
+- [Best practices for Amazon OpenSearch Ingestion (Hebrew)](https://www.youtube.com/watch?v=CDJMt32yJbk)
+
 
 ### ✍️ Extra for the brave hearted :
  - [My favoriate patent](https://patents.google.com/patent/US11356324B2)
